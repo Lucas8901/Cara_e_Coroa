@@ -1,12 +1,12 @@
 
 <h1 align="center">Cara e Coroa</h1>
  <div align="left">
-  <img src="https://github.com/Lucas8901/Color_Generator/blob/main/gif/bandicam%202023-03-02%2020-39-30-217.gif"/>
+  <img src="https://github.com/Lucas8901/Cara_e_Coroa/blob/main/github/thumb.jpeg"/>
   </div>
 <br>
 
 <h2 align="left">Descrição do projeto:</h2>
-<p align="left"> Este projeto foi feito em sua grande parte em JS, <br> principal funcionalidade é animar a moeda ao clicar no botão e adicionar a interação no placar feito em  JavaScript</p>
+<p align="left"> Este projeto foi feito em sua grande parte em JS, <br> principal funcionalidade é animar a moeda ao clicar no botão e adicionar a interação no placar feito em JavaScript a animação foi feita em CSS e ativada via JS ao click do botão </p>
 <br>
 
 
